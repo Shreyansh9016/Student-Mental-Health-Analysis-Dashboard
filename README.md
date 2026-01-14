@@ -37,7 +37,7 @@ The dataset was **fetched from SQL**, cleaned, and exported to CSV — the same 
 ## 📊 Dashboard Preview (Full View)
 
 <p align="center">
-  <img width="1257" alt="Dashboard" src="https://github.com/user-attachments/assets/e6e9e607-aea2-4e5d-8238-192072ac153d" />
+  <img width="1257" height="854" alt="Dashboard" src="https://github.com/user-attachments/assets/455daa56-c39d-43d5-a453-a19357508a2b" />
 </p>
 
 ---
@@ -46,27 +46,32 @@ The dataset was **fetched from SQL**, cleaned, and exported to CSV — the same 
 
 ### 📌 Academic Pressure vs Student Count
 <p align="center">
-  <img width="1253" alt="AP SC" src="https://github.com/user-attachments/assets/b7a11397-0723-4b06-805e-21397f53b8c4" />
+  <img width="1253" height="852" alt="AP   SC" src="https://github.com/user-attachments/assets/e8f3f143-c609-42d3-81d3-28c60be90ddd" />
+
 </p>
 
 ### 💰 Financial Stress vs Student Count
 <p align="center">
-  <img width="1244" alt="FS SC" src="https://github.com/user-attachments/assets/bab417e2-d5ce-4369-82c0-9605e42b5043" />
+  <img width="1244" height="844" alt="FS   SC" src="https://github.com/user-attachments/assets/5c4703bd-0b93-45b0-8348-27a8048e3463" />
+
 </p>
 
 ### 😄 Study Satisfaction vs Student Count
 <p align="center">
-  <img width="1249" alt="SS SC" src="https://github.com/user-attachments/assets/610b6104-3fbb-42df-9f03-8ff1fc7e1ffc" />
+  <img width="1249" height="839" alt="SS   SC" src="https://github.com/user-attachments/assets/5c250285-6dfb-4a65-bc78-67b4bf2c382a" />
+
 </p>
 
 ### 💤 Sleep Duration vs Student Count
 <p align="center">
-  <img width="1249" alt="SD SC" src="https://github.com/user-attachments/assets/f8d57ead-2ce3-4a77-a7ef-7067f9e15f8c" />
+  <img width="1249" height="771" alt="SD   SC" src="https://github.com/user-attachments/assets/8d2efab7-053b-4870-90aa-f00261eb57ad" />
+
 </p>
 
 ### 📖 Study Hours vs Student Count
 <p align="center">
-  <img width="1238" alt="SH SC" src="https://github.com/user-attachments/assets/e6456e4a-2e98-49f6-b272-1111dfa9a93e" />
+  <img width="1238" height="839" alt="SH   SC" src="https://github.com/user-attachments/assets/97368fbb-e5be-4bdb-ba9c-50164a2a0285" />
+
 </p>
 
 ---
